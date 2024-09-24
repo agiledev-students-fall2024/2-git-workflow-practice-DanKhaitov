@@ -1,2 +1,2 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Useful CS Article
+An interesting article on CS is [Teach Yourself Computer Science](https://teachyourselfcs.com/#why). When self-studying, choosing self-study materials is one of the first steps. Making bad choices will waste time, and if beginners choose randomly, they will make bad choices. Reddit has some good advice, but it's also filled with lots of junk. This is a good alternative from experienced engineers.
